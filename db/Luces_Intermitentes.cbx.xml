@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Luces_Intermitentes">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Luces_Exp1|divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8ej.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

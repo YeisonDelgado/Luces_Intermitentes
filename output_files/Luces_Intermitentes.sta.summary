@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -3.515
+TNS   : -88.673
+
+Type  : Slow 1200mV 85C Model Setup 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.092
+TNS   : -0.092
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -1.644
+TNS   : -3.528
+
+Type  : Slow 1200mV 85C Model Hold 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -2.993
+TNS   : -75.374
+
+Type  : Slow 1200mV 0C Model Setup 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -1.521
+TNS   : -3.645
+
+Type  : Slow 1200mV 0C Model Hold 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.551
+TNS   : -38.675
+
+Type  : Fast 1200mV 0C Model Setup 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -1.013
+TNS   : -5.072
+
+Type  : Fast 1200mV 0C Model Hold 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -30.456
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divisordos:inst33|lpm_counter0:b2v_inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
